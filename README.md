@@ -1,5 +1,4 @@
 # Numpy_Fundamental_Concept
-# NumPy Practice and Examples
 
 ## Overview
 This repository contains NumPy basics, practice programs, and example files created while learning NumPy in Python.
