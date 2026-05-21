@@ -1,5 +1,5 @@
 '''
-RANDON VARIABLES
+RANDOM VARIABLES
 A random variable in Python means generating values randomly using functions from NumPy’s random module.
 '''
 import numpy as np
